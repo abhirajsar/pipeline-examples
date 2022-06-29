@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-The MIT License test
-=======
-The MIT License edited to test
->>>>>>> b7ac077c27b6e1a5c295c9964f08f30fa7f80d6e
+The MIT License
 
 Copyright (c) 2015-, CloudBees, Inc., and a number of other of contributors
 
